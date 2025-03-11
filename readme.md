@@ -2,7 +2,7 @@ Apresentação
 Meu Nome é Vitor Veloso tenho 23 anos, possuo Autismo Asperger, atualmente sou formado 
 em QA (como aprendiz PCD) pela Compass UOL, 
 tenho experiencia em Testes Manuais, quanto automatizados, esse repositório é  
-vitor_veloso_Advantage_Shopping, nele conseguirá visualizar e ver todos os Testes  
+Vitor_Veloso_Advantage, nele conseguirá visualizar e ver todos os Testes  
 automatizados eu fiz no projeto. 
 
 Objetivo 
