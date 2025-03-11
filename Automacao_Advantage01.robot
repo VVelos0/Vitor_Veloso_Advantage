@@ -3,7 +3,7 @@ Library        RequestsLibrary
 Library        String
 Library        JSONLibrary
 Library        Collections
-Resource      ../ArquivosLogin/caso_de_Teste.robot
+Resource      ../ArquivosLogin/caso_de_teste.robot
 
 
 
