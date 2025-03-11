@@ -10,7 +10,7 @@ O objetivo é armazenar e colocar todos os commits eu fiz durante os dias,
 nele conseguiram colocar os códigos na sua máquina e fazer funcionar! 
 Requisitos 
 Necessários ter a ferramenta, Visual Studio Code, Pacote Robot Framework, Pacote robot 
-JSON. 
+JSON, Pacote robot Collections
 
 Necessários Estar conectados a uma rede WI-FI e ter o próprio computador/Notebook. 
 Necessários Ter noção de Automatização de Testes Voltada a linguagem Python. 
